@@ -10,7 +10,7 @@ Obviously this comes with no warranty or support or guarantees and if you are re
 Use:<br>
 Change the drive path variable ($outputDrive = "E:") to the drive you want to fill.<br>
 Change the repeat variable ($rptCount = 16) to vary the file size - 16 gives a file ~100MB in size. This value will exponentially increase file size.<br>
-  Smaller files will pack more completely into the drive<br>
+&nbsp;Smaller files will pack more completely into the drive, that said the script seems to keep writing a file until space is zero so a partial file write will fill the drive<br>
 Change the number of files per directory by changeing the variable ($filePerDir = 1048576)<br>
 <br><br>
 *the text here used here is from the book The Algebraist by Iain M. Banks.<br>
