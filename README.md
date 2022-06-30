@@ -1,6 +1,6 @@
 # Drive-Space-Overwrite<br>
 Overwrite free space on a drive<br>
-Fill an empty hard drive with content/overwrite all free space on a drive<br>
+Fill an empty hard drive with junk content/overwrite all free space on a drive<br>
 Multiple junk content text files are written into a series of HEX labelled directories<br>
 This won't erase existing content, but it ought to overwrite existing 'deleted' data / space to make recovery more difficult<br>
 Text is (c) Iain M. Banks - The Algebraist*<br>
