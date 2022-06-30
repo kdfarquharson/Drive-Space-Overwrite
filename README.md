@@ -2,7 +2,7 @@
 Overwrite free space on a drive<br>
 Fill an empty hard drive with junk content/overwrite all free space on a drive<br>
 Multiple junk content text files are written into a series of HEX labelled directories<br>
-This won't erase existing content, but it ought to overwrite existing 'deleted' data / space to make recovery more difficult<br>
+This won't erase existing content, but it ought to overwrite 'deleted' data / space to make recovery more difficult<br>
 Text is (c) Iain M. Banks - The Algebraist*<br>
 Probably not the fastest, or most secure, way of erasing empty space but it'll do for simplicity<br>
 Obviously this comes with no warranty or support or guarantees and if you are relying on a random script that someone wrote for fun that you found on the internet to securely overwrite empty drive space on your drives you may want to rethink your security strategy.
