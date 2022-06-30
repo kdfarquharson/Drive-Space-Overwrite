@@ -8,7 +8,7 @@ Probably not the fastest, or most secure, way of erasing empty space but it'll d
 <br>
 Use:<br>
 Change the drive path variable ($outputDrive = "E:") to the drive you want to fill.<br>
-Change the repeat variable ($rptCount = 16) to vary the file size - 16 gives a file ~100MB in size.<br>
+Change the repeat variable ($rptCount = 16) to vary the file size - 16 gives a file ~100MB in size. This value will exponentially increase file size.<br>
   Smaller files will pack more completely into the drive<br>
 Change the number of files per directory by changeing the variable ($filePerDir = 1048576)<br>
 <br><br>
