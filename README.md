@@ -14,4 +14,4 @@ Change the repeat variable ($rptCount = 16) to vary the file size - 16 gives a f
 Change the number of files per directory by changeing the variable ($filePerDir = 1048576)<br>
 <br><br>
 *the text here used here is from the book The Algebraist by Iain M. Banks.<br>
-In the book the text is found writen repeatedly over the entire storage of a deceased AI to erase it's own memory.<br>
+In the book the text is found writen repeatedly over the entire storage of a deceased AI to erase it's own memory to prevent it falling into the wrong hands.<br>
