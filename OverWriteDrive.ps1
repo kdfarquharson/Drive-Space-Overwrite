@@ -42,7 +42,7 @@ for($iWipeCount = 0; $iWipeCount -lt $iWipes; $iWipeCount++) {
 
 	do {
 		$hexFile = $iFile.ToString("X")
-		Write-Output "Wipe $($iWipeCount) File $($hexFile)"
+		Write-Output "Wipe $($iWipeCount) Folder $($hexFolder) File $($hexFile)"
 		try{
 			$outputString | Out-File -FilePath "$($outputDrive)$($guidFolder)\$($hexFolder)\$($hexFile).txt" -Force
 		}
